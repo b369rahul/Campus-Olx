@@ -1,4 +1,5 @@
-# Campus-Olx
+A Project under [Coding Club, IITG](https://www.iitg.ac.in/stud/gymkhana/technical/home/CodingHome.html)
+# Campus-OLX
 Campus Olx made for IIT Guwahati to buy and sell within the campus
 
 ### About :
@@ -17,8 +18,8 @@ A platform for all the residents of iitg to buy and sell stuff within the campus
 ![Screenshot](2.png)
 
 ### Contributers:
-- Aman Soni
-- Aditya Patidar
-- Kartik Masaliya
+- [Aman Soni](https://github.com/ssamansoni "Aman Soni")
+- [Aditya Patidar](https://github.com/Adii45 "Aditya Patidar")
+- Kartik Masaliya 
 - Piyush Gulve
-- Rahul Bansal
+- [Rahul Bansal](https://github.com/b369rahul "Rahul Bansal")
