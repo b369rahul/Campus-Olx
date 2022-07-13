@@ -20,6 +20,6 @@ A platform for all the residents of iitg to buy and sell stuff within the campus
 ### Contributers:
 - [Aman Soni](https://github.com/ssamansoni "Aman Soni")
 - [Aditya Patidar](https://github.com/Adii45 "Aditya Patidar")
-- Kartik Masaliya 
-- Piyush Gulve
+- [Kartik Masaliya](https://github.com/kartikmalasiya "Kartik Malasiya")
+- [Piyush Gulve](https://github.com/Piyush-6 "Piyush Gulve")
 - [Rahul Bansal](https://github.com/b369rahul "Rahul Bansal")
