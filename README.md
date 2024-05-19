@@ -21,6 +21,4 @@ A platform for all the residents of iitg to buy and sell stuff within the campus
 - [Aman Soni](https://github.com/ssamansoni "Aman Soni")
 - [Aditya Patidar](https://github.com/Adii45 "Aditya Patidar")
 - [Kartik Masaliya](https://github.com/kartikmalasiya "Kartik Malasiya")
-- [Piyush Gulve](https://github.com/Piyush-6 "Piyush Gulve")
-- [Prakash Raj](https://github.com/Prakash6429 "Prakash Raj")
 - [Rahul Bansal](https://github.com/b369rahul "Rahul Bansal")
